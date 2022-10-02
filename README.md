@@ -1,2 +1,2 @@
 # math_projects
-computation math projects I wrote for fun. fjlskajfls;adkjfl;ks
+computation math projects I wrote for fun. Some include using differentiation and integration numerically to solve problems in calculus. I also dived into the topic of solving ordinary differential equations (ODE) using numerical techiques. This is quite interesting because we cannot solve all ODE's and we must use numerical techiniques as I have done here. For example we looked at the simple harmonic oscillator which cannont be solved without computer techiniques. So that is one of the problems you can see here. These techiniques can be used to solve a variety of real world problems wince we constantly run into these type of math problems in business. 
